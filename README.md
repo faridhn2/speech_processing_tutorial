@@ -12,6 +12,6 @@ Includes jupyter notebook files, pdfs and media files
 6. Speech noise reduction
 7. AssemblyAI speech
 8. Google speech recognition
-9. Our speech recognition
+9. Our speech recognition model
 
 **Lecturer and writer : Farid Hasheminejad**
