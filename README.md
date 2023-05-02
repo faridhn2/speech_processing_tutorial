@@ -11,4 +11,4 @@ This repository was created to provide speech processing course files
 8. Google speech recognition
 9. Our speech recognition
 
-Lecturer and writer : Farid Hasheminejad
+**Lecturer and writer : Farid Hasheminejad**
