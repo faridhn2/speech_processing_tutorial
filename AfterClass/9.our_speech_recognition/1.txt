@@ -1,1 +1,11 @@
-
+We must collect data from commands
+Top
+Down
+Left
+Right
+Go
+Come
+Yes
+No
+In Persian
+And then train a deep learning system with spectrogram features
