@@ -15,4 +15,5 @@ Includes jupyter notebook files, pdfs and media files
 9. Our speech recognition model
 Use code create_dataset.ipynb to create a dataset in the specified categories with 100 samples per category.
 Finally, upload the data zip file to Google Drive and share it through the class group
+
 **Lecturer and writer : Farid Hasheminejad**
