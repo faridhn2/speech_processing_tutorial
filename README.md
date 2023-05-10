@@ -13,7 +13,7 @@ Includes jupyter notebook files, pdfs and media files
 7. AssemblyAI speech
 8. Google speech recognition
 9. Our speech recognition model
-
+10. GMM Voice Conversion
 
 Use code create_dataset.ipynb to create a dataset in the specified categories with 100 samples per category.
 Finally, upload the data zip file to Google Drive and share it through the class group
